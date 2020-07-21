@@ -37,6 +37,6 @@ implement a subset but do it in the **highest possible quality**.
 # Video
 
 <p align="center">
-[![Watch the video](https://github.com/techiedeveloper08/UrbanHomework/blob/master/assets/HomeScreen.png)](https://github.com/techiedeveloper08/UrbanHomework/blob/master/assets/PracticalVideo.mp4)
+[![Watch the video](https://github.com/techiedeveloper08/UrbanHomework/files/4952420/PracticalVideo.webm.zip)
 </p>
 
