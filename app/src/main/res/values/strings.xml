@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Urban Homework</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="locationName">Name : %1$s</string>
+    <string name="locationType">Type : %1$s</string>
+    <string name="locationDimension">Dimension : %1$s</string>
+
+    <string name="errorDialogTitle">Error!!!</string>
+</resources>
