@@ -26,7 +26,7 @@ The application is built around the ["Rick and Morty API"](https://rickandmortya
 **N.B.** Should you run short on time to implement all tasks, choose to
 implement a subset but do it in the **highest possible quality**.
 
-*Screenshot
+# Screenshot
 
 <p align="center">
 <img src="https://github.com/techiedeveloper08/UrbanHomework/blob/master/assets/HomeScreen.png" width="250"/>
@@ -34,7 +34,7 @@ implement a subset but do it in the **highest possible quality**.
 <img src="https://github.com/techiedeveloper08/UrbanHomework/blob/master/assets/DetailScreen.png" width="250"/>
 </p>
 
-*Video
+# Video
 
 <p align="center">
 [![Watch the video](https://https://github.com/techiedeveloper08/UrbanHomework/blob/master/assets/HomeScreen.png)](https://https://github.com/techiedeveloper08/UrbanHomework/blob/master/assets/PracticalVideo.mp4)
